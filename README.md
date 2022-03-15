@@ -2,7 +2,7 @@
 
 In this lab we will cover some basic HTML5 and CSS, as well as ways to make your web app look and feel like a native app. 
 
-## Your task:
+# Your tasks:
 
 Create an HTML5 web app for Bike WPI that looks and feels like a native app.
 
@@ -10,23 +10,23 @@ Use a mobile device (or simulator) to check the solution app [here](http://users
 
 To start with, your app should consist of 2 files: index.html and style.css.  The content of index.html can be copied from the end of this document.
 
-## Step-by-Step Tutorial
+# Step-by-Step Tutorial
 
-**Step 0:** Fork this repository ([Help](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)) so that you have a copy of it in your Github account. 
+☑️ **Step 0:** Fork this repository ([Help](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)) so that you have a copy of it in your Github account. 
 
-**Step 1:** Clone your lab1 repository so that you have a local copy on your computer ([Help](https://github.com/cs3041-d22/lab0/blob/master/README.md#3-clone-and-edit-your-project))
+☑️ **Step 1:** Clone your lab1 repository so that you have a local copy on your computer ([Help](https://github.com/cs3041-d22/lab0/blob/master/README.md#3-clone-and-edit-your-project))
 
-**Step 2:** On your local computer, open Sublime Text (or your favorite text editor) and create two files: *index.html* and *style.css*.
+☑️ **Step 2:** On your local computer, open Sublime Text (or your favorite text editor) and create two files: *index.html* and *style.css*.
 
-**Step 3:** Fill in the content of index.html by copying and pasting the HTML 5 code [here](https://github.com/cs3041-d22/lab1/blob/master/README.md#Code-for-indexhtml)
+☑️ **Step 3:** Fill in the content of index.html by copying and pasting the HTML 5 code [here](https://github.com/cs3041-d22/lab1/blob/master/README.md#Code-for-indexhtml)
 
-**Step 4:** Study the HTML code. 
+☑️ **Step 4:** Study the HTML code. 
 
 When you’re done, save your work. To view your work so far, click on the index.html in your project directory. A web browser will open and things should look something like this:
 
-![](https://github.com/cs3041-d22/lab1/blob/main/img/image1.png)
+![](https://github.com/cs3041-d22/lab1/blob/master/img/image1.png)
 
-**Step 5:** Next, let’s add some style rules for your app using CSS. 
+☑️ **Step 5:** Next, let’s add some style rules for your app using CSS. 
 
 If you are new to CSS, check this [tutorial on CSS syntax](https://www.w3schools.com/css/css_syntax.asp).
 
@@ -38,7 +38,7 @@ Also, this next line makes your web app look a bit more native on an iPhone, but
 ```
 <meta name="viewport" content="width=device-width, user-scalable=no" />
 ```
-**Step 6:** Now, working in style.css, let’s define some fonts and colors for your app. 
+☑️ **Step 6:** Now, working in style.css, let’s define some fonts and colors for your app. 
 
 Start with the body and header style:
  ```
@@ -75,7 +75,7 @@ https://yourGithubUsername.github.io/lab1/index.html
 
 3. Click save.
 
-**Step 7:** Continue to style your app by defining some padding (https://www.w3schools.com/css/css_padding.asp). 
+☑️ **Step 7:** Continue to style your app by defining some padding (https://www.w3schools.com/css/css_padding.asp). 
 Add the following code to the style.css file.
 ```
 #content {
@@ -93,7 +93,7 @@ Also, we can center our image:
     margin-left: auto;
     margin-right: auto;}
 ```
-**Step 8:** Now we can add rules to make the navigation items look more like native apps:
+☑️ **Step 8:** Now we can add rules to make the navigation items look more like native apps:
 ```
 #main_nav ul { padding: 0; margin: 0; }
 
@@ -116,7 +116,7 @@ Also, we can center our image:
    border: 1px solid #666; /* dark outline */
 }
 ```
-**Step 9:** Save all of your work and [submit your local changes](https://github.com/cs3041-d22/lab0#3-clone-and-edit-your-project) to your online repository. Now, let’s also add some rules to change the default behavior of the buttons in our app so that you get visual feedback on push events. 
+☑️ **Step 9:** Save all of your work and [submit your local changes](https://github.com/cs3041-d22/lab0#3-clone-and-edit-your-project) to your online repository. Now, let’s also add some rules to change the default behavior of the buttons in our app so that you get visual feedback on push events. 
 ```
 nav li:active {
   background-color: #ccc;
@@ -124,12 +124,12 @@ nav li:active {
   box-shadow: inset 0 3px 3px rgba(0, 0, 0, .2);
 }
 ```
-**Step 10:** Finally, style the `<footer>` tag.
+☑️ **Step 10:** Finally, style the `<footer>` tag.
 
 ### Checkpoint: Test your web app on a device or a simulator. 
 (See [Lab 0](https://github.com/cs3041-d22/lab0#set-up-testing-environnment) for using Chrome Developer tools)
 
-**Step 11:** Now, create 3 additional html files that will be hyperlinked through the buttons:
+☑️ **Step 11:** Now, create 3 additional html files that will be hyperlinked through the buttons:
 ```
 stores.html
 maps.html
@@ -139,7 +139,7 @@ Each of these files should contain at least a header and a footer and should hav
 
 For now, the content of these pages is not very important, we will continue to develop this application together over the next few labs.
 
-**Step 12:** On Canvas, submit the following: 
+☑️ **Step 12:** On Canvas, submit the following: 
 - link to your github repository
 - link to your github page
 

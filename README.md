@@ -14,17 +14,17 @@ To start with, your app should consist of 2 files: index.html and style.css.  Th
 
 **Step 0:** Fork this repository ([Help](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)) so that you have a copy of it in your Github account. 
 
-**Step 1:** Clone your lab1 repository so that you have a local copy on your computer ([Help](https://github.com/cs3041-b21/lab0/blob/master/README.md#3-clone-and-edit-your-project))
+**Step 1:** Clone your lab1 repository so that you have a local copy on your computer ([Help](https://github.com/cs3041-d22/lab0/blob/master/README.md#3-clone-and-edit-your-project))
 
 **Step 2:** On your local computer, open Sublime Text (or your favorite text editor) and create two files: *index.html* and *style.css*.
 
-**Step 3:** Fill in the content of index.html by copying and pasting the HTML 5 code [here](https://github.com/cs3041-b21/lab1/blob/master/README.md#Code-for-indexhtml)
+**Step 3:** Fill in the content of index.html by copying and pasting the HTML 5 code [here](https://github.com/cs3041-d22/lab1/blob/master/README.md#Code-for-indexhtml)
 
 **Step 4:** Study the HTML code. 
 
 When you’re done, save your work. To view your work so far, click on the index.html in your project directory. A web browser will open and things should look something like this:
 
-![](https://github.com/cs3041-b21/lab1/blob/main/img/image1.png)
+![](https://github.com/cs3041-d22/lab1/blob/main/img/image1.png)
 
 **Step 5:** Next, let’s add some style rules for your app using CSS. 
 
@@ -59,7 +59,7 @@ To test your styled app, you will need to use a device or a simulator:
 
 To test using your device:
 
-1) Follow the instruction [here](https://github.com/cs3041-b21/lab0#4-create-your-gh-pages-branch) to create a new branch *gh-pages*. Make sure the new branch's content is the same as the *master* branch and then push your changes to your remote repository.
+1) Follow the instruction [here](https://github.com/cs3041-d22/lab0#4-create-your-gh-pages-branch) to create a new branch *gh-pages*. Make sure the new branch's content is the same as the *master* branch and then push your changes to your remote repository.
 
 2) Use the following url scheme to access your web-page:
 
@@ -116,7 +116,7 @@ Also, we can center our image:
    border: 1px solid #666; /* dark outline */
 }
 ```
-**Step 9:** Save all of your work and [submit your local changes](https://github.com/cs3041-b21/lab0#3-clone-and-edit-your-project) to your online repository. Now, let’s also add some rules to change the default behavior of the buttons in our app so that you get visual feedback on push events. 
+**Step 9:** Save all of your work and [submit your local changes](https://github.com/cs3041-d22/lab0#3-clone-and-edit-your-project) to your online repository. Now, let’s also add some rules to change the default behavior of the buttons in our app so that you get visual feedback on push events. 
 ```
 nav li:active {
   background-color: #ccc;
@@ -127,7 +127,7 @@ nav li:active {
 **Step 10:** Finally, style the `<footer>` tag.
 
 ### Checkpoint: Test your web app on a device or a simulator. 
-(See [Lab 0](https://github.com/cs3041-b21/lab0#set-up-testing-environnment) for using Chrome Developer tools)
+(See [Lab 0](https://github.com/cs3041-d22/lab0#set-up-testing-environnment) for using Chrome Developer tools)
 
 **Step 11:** Now, create 3 additional html files that will be hyperlinked through the buttons:
 ```
@@ -186,4 +186,4 @@ For now, the content of these pages is not very important, we will continue to d
 ### Submit your work
 On Canvas, submit the following:
 - a link to your lab's Github repository 
-- a link to your web page (see this [quick tutorial on how to make a Github page](https://github.com/cs3041-b21/lab0#4-create-your-gh-pages-branch)) 
+- a link to your web page (see this [quick tutorial on how to make a Github page](https://github.com/cs3041-d22/lab0#4-create-your-gh-pages-branch)) 

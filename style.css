@@ -1,11 +1,12 @@
-#content {
-    padding:3px;
+p {
+    padding:10px;
 }
 header {
     font-family: Futura, Trebuchet MS;
     font-weight: bold condensed;
     color: #AC2B37; 
     font-size: 25px;
+    padding:50px;
   }
 body {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
@@ -18,4 +19,31 @@ h1 {
     font-weight:bolder;
     color:darkgreen;
     font-size:larger;
+    padding:50px;
 }
+#WPI{
+    /*center the image*/
+    display: block; 
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;}
+#main_nav ul { padding: 0; margin: 0; }
+
+#main_nav li  {
+  list-style-type: none; /* remove bullet points */ 
+}
+
+#main_nav li a {
+    display: block;
+    text-decoration: none; /* remove underline */
+    border-radius: 10px;  /* rounded corners */
+    margin: 6px;
+    padding: 9px;
+    color: #222;
+    font-weight: bold;
+ 
+    /* nice gradient shade on the buttons */
+    background-image: linear-gradient(to bottom, rgba(255,255,255,0), rgba(255,255,255,1));
+ 
+    border: 1px solid #666; /* dark outline */
+ }
